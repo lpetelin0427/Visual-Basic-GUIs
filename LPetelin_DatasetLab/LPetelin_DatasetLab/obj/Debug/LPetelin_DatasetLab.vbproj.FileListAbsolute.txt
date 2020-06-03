@@ -1,0 +1,13 @@
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\bin\Debug\LPetelin_DatasetLab.exe.config
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\bin\Debug\NORTHWND.MDF
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\bin\Debug\NORTHWND_log.ldf
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\bin\Debug\LPetelin_DatasetLab.exe
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\bin\Debug\LPetelin_DatasetLab.pdb
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\bin\Debug\LPetelin_DatasetLab.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\obj\Debug\LPetelin_DatasetLab.vbprojResolveAssemblyReference.cache
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\obj\Debug\LPetelin_DatasetLab.Form1.resources
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\obj\Debug\LPetelin_DatasetLab.Resources.resources
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\obj\Debug\LPetelin_DatasetLab.vbproj.GenerateResource.Cache
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\obj\Debug\LPetelin_DatasetLab.exe
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\obj\Debug\LPetelin_DatasetLab.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_DatasetLab\LPetelin_DatasetLab\obj\Debug\LPetelin_DatasetLab.pdb

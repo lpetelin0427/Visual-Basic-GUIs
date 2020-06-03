@@ -1,0 +1,13 @@
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\bin\Debug\LPetelin_BlobLab.exe.config
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\bin\Debug\Database1.mdf
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\bin\Debug\Database1_log.ldf
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\bin\Debug\LPetelin_BlobLab.exe
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\bin\Debug\LPetelin_BlobLab.pdb
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\bin\Debug\LPetelin_BlobLab.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\obj\Debug\LPetelin_BlobLab.Form1.resources
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\obj\Debug\LPetelin_BlobLab.Resources.resources
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\obj\Debug\LPetelin_BlobLab.vbproj.GenerateResource.Cache
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\obj\Debug\LPetelin_BlobLab.exe
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\obj\Debug\LPetelin_BlobLab.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\obj\Debug\LPetelin_BlobLab.pdb
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_BlobLab\LPetelin_BlobLab\obj\Debug\LPetelin_BlobLab.vbprojAssemblyReference.cache

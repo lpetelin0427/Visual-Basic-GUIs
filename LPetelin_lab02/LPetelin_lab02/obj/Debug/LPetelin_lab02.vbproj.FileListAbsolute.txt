@@ -1,0 +1,11 @@
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_lab02\LPetelin_lab02\bin\Debug\LPetelin_lab02.exe.config
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_lab02\LPetelin_lab02\bin\Debug\LPetelin_lab02.exe
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_lab02\LPetelin_lab02\bin\Debug\LPetelin_lab02.pdb
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_lab02\LPetelin_lab02\bin\Debug\LPetelin_lab02.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_lab02\LPetelin_lab02\obj\Debug\LPetelin_lab02.Form1.resources
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_lab02\LPetelin_lab02\obj\Debug\LPetelin_lab02.Resources.resources
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_lab02\LPetelin_lab02\obj\Debug\LPetelin_lab02.vbproj.GenerateResource.Cache
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_lab02\LPetelin_lab02\obj\Debug\LPetelin_lab02.exe
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_lab02\LPetelin_lab02\obj\Debug\LPetelin_lab02.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_lab02\LPetelin_lab02\obj\Debug\LPetelin_lab02.pdb
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_lab02\LPetelin_lab02\obj\Debug\LPetelin_lab02.vbprojResolveAssemblyReference.cache

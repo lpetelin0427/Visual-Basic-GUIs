@@ -1,0 +1,17 @@
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\bin\Debug\LPetelin_labCompleteCRUD.exe.config
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\obj\Debug\LPetelin_labCompleteCRUD.vbprojResolveAssemblyReference.cache
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\obj\Debug\LPetelin_labCompleteCRUD.Form1.resources
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\obj\Debug\LPetelin_labCompleteCRUD.Resources.resources
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\obj\Debug\LPetelin_labCompleteCRUD.vbproj.GenerateResource.Cache
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\obj\Debug\LPetelin_labCompleteCRUD.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\bin\Debug\Database1.mdf
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\bin\Debug\Database1_log.ldf
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\bin\Debug\LPetelin_labCompleteCRUD.exe
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\bin\Debug\LPetelin_labCompleteCRUD.pdb
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\bin\Debug\LPetelin_labCompleteCRUD.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\bin\Debug\EntityFramework.dll
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\bin\Debug\EntityFramework.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\obj\Debug\LPetelin_labCompleteCRUD.exe
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_labCompleteCRUD\LPetelin_labCompleteCRUD\obj\Debug\LPetelin_labCompleteCRUD.pdb

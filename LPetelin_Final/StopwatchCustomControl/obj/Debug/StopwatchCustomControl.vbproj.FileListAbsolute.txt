@@ -1,0 +1,11 @@
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_Final\StopwatchCustomControl\bin\Debug\StopwatchCustomControl.exe.config
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_Final\StopwatchCustomControl\bin\Debug\StopwatchCustomControl.exe
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_Final\StopwatchCustomControl\bin\Debug\StopwatchCustomControl.pdb
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_Final\StopwatchCustomControl\bin\Debug\StopwatchCustomControl.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_Final\StopwatchCustomControl\obj\Debug\StopwatchCustomControl.Form1.resources
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_Final\StopwatchCustomControl\obj\Debug\StopwatchCustomControl.Resources.resources
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_Final\StopwatchCustomControl\obj\Debug\StopwatchCustomControl.vbproj.GenerateResource.Cache
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_Final\StopwatchCustomControl\obj\Debug\StopwatchCustomControl.exe
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_Final\StopwatchCustomControl\obj\Debug\StopwatchCustomControl.xml
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_Final\StopwatchCustomControl\obj\Debug\StopwatchCustomControl.pdb
+C:\Users\lpete\Desktop\School Work 3rd Semester\Adv Visual Basic\HomeWork\LPetelin_Final\StopwatchCustomControl\obj\Debug\StopwatchCustomControl.vbprojAssemblyReference.cache
